@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import '../services/data_service.dart';
-import '../models/app_models.dart';
+import '../../services/data_service.dart';
+import '../../models/app_models.dart';
 import 'manage_staff_screen.dart';
 
 class AdminDashboard extends StatefulWidget {
